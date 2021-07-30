@@ -1,4 +1,4 @@
-# University Project: Intertial Sensor Fusion 
+# University Project: Inertial Sensor Fusion 
 This repo includes the main implementation that was written in MATLAB (in accordance with the project’s requirements). In addition, there is also a 9D EKF implementation in Python.
 
 # Introduction
