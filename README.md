@@ -27,6 +27,5 @@ arm performing a drawing motion in the x-y plane.
 
 <img src="plots/robot_arm.png" width="580" height="150"><br/>
 
-
-
 # Results
+<img src="plots/result.png" width="540" height="254"><br/>
