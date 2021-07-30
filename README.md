@@ -1,3 +1,6 @@
+# University Project: Intertial Sensor Fusion 
+This repo includes the main implementation that was written in MATLAB (in accordance with the project’s requirements). In addition, there is also a 9D EKF implementation in Python.
+
 # Introduction
 In recent years Inertial Measurement Units (IMUs) have
 become widely popular for tracking the motion of kinematic
@@ -21,8 +24,5 @@ improve position estimates was explored. Results are presented
 based on measurements of two IMUs mounted on a robotic
 arm performing a drawing motion in the x-y plane.
 
-
-# General 
-This repo includes the main implementation that was written in MATLAB (in accordance with the project’s requirements). In addition, there is also a 9D EKF implementation in Python.
 
 # Results
