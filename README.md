@@ -24,5 +24,8 @@ improve position estimates was explored. Results are presented
 based on measurements of two IMUs mounted on a robotic
 arm performing a drawing motion in the x-y plane.
 
+<img src="plots/robot_arm.png" width="871" height="225"><br/>
+
+
 
 # Results
