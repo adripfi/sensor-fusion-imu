@@ -29,3 +29,4 @@ arm performing a drawing motion in the x-y plane.
 
 # Results
 <img src="plots/result.png" width="540" height="254"><br/>
+Estimated writst trajectory projected into the z-plane. 
